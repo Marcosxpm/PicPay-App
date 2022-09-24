@@ -1,6 +1,6 @@
 #Clone: Netflix 🎬
 <p align="center">
-	<img src="https://i.imgur.com/NxZd0C5.png" alt="Clone: Netflix" title="Clone: Netflix">
+	<a href="https://imgur.com/cFd0OYk"><img src="https://i.imgur.com/cFd0OYkt.png" alt="Clone: PicPay"  title="Clone: PicPay" /></a>
 </p>
 
 ## 📖 Sobre   
@@ -11,14 +11,17 @@ Clone do App UI da **PicPay** desenvolvido para apŕesentação sólidas *De Rea
 ## 🚀 Tecnologias e ferramentas utilizadas
 - **React Native**
 - **Expo Go** (com [ Expo Bare Workflow](https://expo.dev/))
-- **Tab Navigation 5 ** ((https://reactnavigation.org/docs/tab-based-navigation/))
+- **Tab Navigation 5** ( [ Com @React Navigation %](https://reactnavigation.org/docs/tab-based-navigation/))
 
 ---
 
 ## 🖥️ Demonstração
 
-![Imgur](https://i.imgur.com/KT4tCg0.png)
-[Criar Conta](https://i.imgur.com/Yec9gfV.png)
+![Imgur](https://i.imgur.com/hDSlJu6.png)
+ [Imgur](https://i.imgur.com/J54kYdx.png)
+ [Imgur](https://i.imgur.com/cRbIipS.png)
+ [Imgur](https://i.imgur.com/yEa7eWx.png)
+ [Imgur](https://i.imgur.com/eouPip3.png)
 
 Você pode acessar o projeto clicando [aqui](https://marcosxpm.github.io/Netflixclone.github.io/).
 
