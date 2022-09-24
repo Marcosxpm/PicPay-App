@@ -17,7 +17,7 @@ Clone do App UI da **PicPay** desenvolvido para apŕesentação sólidas *De Rea
 
 ## 🖥️ Demonstração
 
-![][Pré-Entrada](https://i.imgur.com/KT4tCg0.png)
+![Imgur](https://i.imgur.com/KT4tCg0.png)
 [Criar Conta](https://i.imgur.com/Yec9gfV.png)
 
 Você pode acessar o projeto clicando [aqui](https://marcosxpm.github.io/Netflixclone.github.io/).
