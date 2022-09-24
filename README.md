@@ -1,6 +1,6 @@
 #Clone: Netflix 🎬
 <p align="center">
-	<a href="https://imgur.com/cFd0OYk"><img src="https://i.imgur.com/cFd0OYkt.png" alt="Clone: PicPay"  title="Clone: PicPay" /></a>
+	[Imgur](https://i.imgur.com/cFd0OYkt.png)
 </p>
 
 ## 📖 Sobre   
@@ -25,6 +25,10 @@ Clone do App UI da **PicPay** desenvolvido para apŕesentação sólidas *De Rea
 
 Você pode acessar o projeto clicando [aqui](https://marcosxpm.github.io/Netflixclone.github.io/).
 
+## 🔧 Requisitos Minímos
+react-native >= 0.63.0
+expo >= 41 (if you use Expo)
+typescript >= 4.1.0 (if you use TypeScript)
 
 ---
 
@@ -32,12 +36,27 @@ Você pode acessar o projeto clicando [aqui](https://marcosxpm.github.io/Netflix
 
 ```bash
 # Clone o repositório
-git clone https://github.com/Marcosxpm/Netflixclone.github.io.git
+git clone https://github.com/Marcosxpm/PicPay-App.git
+
+```bash
+# Installing
+npm install @react-navigation/native
+
+```bash
+# Installing dependencies into an Expo managed project
+npx expo install react-native-screens react-native-safe-area-context
+
+```bash
+# Tab navigation
+npm install @react-navigation/bottom-tabs
 
 # Entre no diretório
-cd netflix
+cd Picpay
 ```
-Depois disso, utilize uma ferramenta como o [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) para criar um servidor local e executar o projeto.
+Depois disso, utilize 
+```bash
+# Tab navigation
+npx expo start
 
 ---
 
