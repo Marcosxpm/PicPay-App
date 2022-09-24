@@ -1,6 +1,6 @@
 #Clone: Netflix 🎬
 <p align="center">
-	[Imgur](https://i.imgur.com/cFd0OYkt.png)
+	![Imgur](https://i.imgur.com/cFd0OYkt.png)
 </p>
 
 ## 📖 Sobre   
