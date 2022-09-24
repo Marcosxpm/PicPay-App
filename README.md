@@ -11,7 +11,7 @@ Clone do App UI da **PicPay** desenvolvido para apresentação sólidas *De Reac
 ## 🚀 Tecnologias e ferramentas utilizadas
 - **React Native**
 - **Expo Go** (com [ Expo Bare Workflow](https://expo.dev/))
-- **Tab Navigation 5** ( [ Com @React Navigation %](https://reactnavigation.org/docs/tab-based-navigation/))
+- **Tab Navigation 5** ( [ Com @Tab Navigation](https://reactnavigation.org/docs/tab-based-navigation/))
 
 ---
 
