@@ -37,13 +37,12 @@ typescript >= 4.1.0 (if you use TypeScript)
 ```bash
 # Clone o repositório
 git clone https://github.com/Marcosxpm/PicPay-App.git
-
 ---
 
 ```bash
 # Installing
 npm install @react-navigation/native
----
+
 ```bash
 # Installing dependencies into an Expo managed project
 npx expo install react-native-screens react-native-safe-area-context
@@ -61,6 +60,7 @@ Depois disso, utilize
 ```bash
 # Tab navigation
 npx expo start
+```
 
 ---
 
