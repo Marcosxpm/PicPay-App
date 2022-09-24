@@ -33,28 +33,33 @@ typescript >= 4.1.0 (if you use TypeScript)
 ---
 
 ## 🔧 Como executar o projeto
-
-```bash
 # Clone o repositório
-git clone https://github.com/Marcosxpm/PicPay-App.git
 ---
-
 ```bash
-# Installing
+git clone https://github.com/Marcosxpm/PicPay-App.git
+```
+# Instalando React Natigation 5
+---
+```bash
 npm install @react-navigation/native
-
+```
+Caso ultilize o Expo
+---
 ```bash
 # Installing dependencies into an Expo managed project
 npx expo install react-native-screens react-native-safe-area-context
+```
 ---
-
+Instale o Tab Bar
+---
 ```bash
 # Tab navigation
 npm install @react-navigation/bottom-tabs
+```
 
 # Entre no diretório
 cd Picpay
-```
+
 Depois disso, utilize 
 ---
 ```bash
@@ -62,7 +67,6 @@ Depois disso, utilize
 npx expo start
 ```
 
----
 
 ---
 **Desenvolvido com ❤️ por [Marcos Dias](https://github.com/Marcosxpm).**
