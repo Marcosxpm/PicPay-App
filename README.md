@@ -4,7 +4,7 @@
 </p>
 
 ## 📖 Sobre   
-Clone do App UI da **PicPay** desenvolvido para apŕesentação sólidas *De Reac Native** pra **A Smart Consulting**, Ultilizando O Framework React Native, e manipualção de components.
+Clone do App UI da **PicPay** desenvolvido para apresentação sólidas *De Reac Native** pra **A Smart Consulting**, Ultilizando O Framework React Native, e manipualção de components.
 
 ---
 
@@ -23,7 +23,7 @@ Clone do App UI da **PicPay** desenvolvido para apŕesentação sólidas *De Rea
 ![Imgur](https://i.imgur.com/yEa7eWx.png)
 ![Imgur](https://i.imgur.com/eouPip3.png)
 
-Você pode acessar o projeto clicando [aqui](https://marcosxpm.github.io/Netflixclone.github.io/).
+---
 
 ## 🔧 Requisitos Minímos
 react-native >= 0.63.0
@@ -33,7 +33,6 @@ typescript >= 4.1.0 (if you use TypeScript)
 ---
 
 ## 🔧 Como executar o projeto
-# Clone o repositório
 ---
 ```bash
 git clone https://github.com/Marcosxpm/PicPay-App.git
@@ -60,10 +59,10 @@ npm install @react-navigation/bottom-tabs
 # Entre no diretório
 cd Picpay
 
-Depois disso, utilize 
+Execute o projeto
 ---
 ```bash
-# Tab navigation
+# Executando projeto
 npx expo start
 ```
 
