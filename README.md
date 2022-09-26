@@ -1,4 +1,4 @@
-#Clone: Netflix 🎬
+#Clone: PicPay🎬
 <p align="center">
 	<a href="https://imgur.com/cFd0OYk"><img src="https://i.imgur.com/cFd0OYkt.png" title="source: imgur.com" /></a>
 </p>
